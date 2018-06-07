@@ -1,0 +1,8 @@
+[06/07/18 02:41:08] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[06/07/18 02:41:08] [Server API] Verbose: 	Command line: /tshock/TerrariaServer.exe -configpath /world -worldpath /world -logpath /world
+[06/07/18 02:41:08] [Server API] Verbose: 	OS: Unix 4.14.33.51 (64bit: True)
+[06/07/18 02:41:08] [Server API] Verbose: 	Mono: True
+[06/07/18 02:41:08] [TShock] Info: Config path has been set to /world
+[06/07/18 02:41:08] [TShock] Info: World path has been set to /world
+[06/07/18 02:41:08] [TShock] Info: Log path has been set to /world
+[06/07/18 02:41:08] [Server API] Info: Plugin TShock v4.3.25.0 (by The TShock Team) initiated.

@@ -1,0 +1,36 @@
+2018-06-07 02:41:08 - TextLog: INFO: TShock 4.3.25.0 (Mintaka) now running.
+2018-06-07 02:41:08 - TShock: INFO: AutoSave Enabled
+2018-06-07 02:41:08 - TShock: INFO: Backups Disabled
+2018-06-07 02:41:08 - TShock: INFO: Welcome to TShock for Terraria. Initialization complete.
+2018-06-07 02:44:09 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2018-06-07 02:45:27 - TextLog: INFO: Bob (136.32.95.82) from 'guest' group joined. (1/8)
+2018-06-07 02:45:27 - Utils: INFO: Broadcast: Bob has joined.
+2018-06-07 02:46:57 - Utils: INFO: Bob executed: /auth 4110046.
+2018-06-07 02:47:18 - TextLog: INFO: GrabbyOldMan (174.58.177.206) from 'guest' group joined. (2/8)
+2018-06-07 02:47:18 - Utils: INFO: Broadcast: GrabbyOldMan has joined.
+2018-06-07 02:47:27 - Commands: INFO: Bob added Account bob to group superadmin
+2018-06-07 03:05:41 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2018-06-07 03:08:01 - TextLog: INFO: Player GrabbyOldMan has been disabled for Reached TileLiquid threshold..
+2018-06-07 03:10:43 - Utils: INFO: Bob executed: /help.
+2018-06-07 03:10:52 - Utils: INFO: Bob executed: /auth.
+2018-06-07 03:11:53 - Utils: INFO: GrabbyOldMan executed: /auth 4110046.
+2018-06-07 03:12:25 - Utils: INFO: Bob executed: /help.
+2018-06-07 03:12:28 - Utils: INFO: Bob executed: /help 2.
+2018-06-07 03:12:39 - Utils: INFO: Bob executed: /serverpassword.
+2018-06-07 03:12:49 - Commands: INFO: GrabbyOldMan added Account alex to group superadmin
+2018-06-07 03:13:07 - Utils: INFO: Bob executed: /help 3.
+2018-06-07 03:19:42 - Utils: INFO: Broadcast: GrabbyOldMan has left.
+2018-06-07 03:19:42 - TextLog: INFO: GrabbyOldMan disconnected.
+2018-06-07 03:22:06 - TextLog: INFO: GrabbyOldMan (174.58.177.206) from 'guest' group joined. (2/8)
+2018-06-07 03:22:06 - Utils: INFO: Broadcast: GrabbyOldMan has joined.
+2018-06-07 03:22:18 - Utils: INFO: GrabbyOldMan tried to execute /user alex butts.
+2018-06-07 03:22:31 - Commands: INFO: GrabbyOldMan authenticated successfully as user: alex.
+2018-06-07 03:29:41 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2018-06-07 03:53:41 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2018-06-07 03:57:11 - Utils: INFO: Broadcast: GrabbyOldMan has left.
+2018-06-07 03:57:11 - TextLog: INFO: GrabbyOldMan disconnected.
+2018-06-07 03:57:26 - Utils: INFO: Broadcast: Bob has left.
+2018-06-07 03:57:26 - TextLog: INFO: Bob disconnected.
+2018-06-07 03:57:26 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2018-06-07 03:57:26 - Utils: INFO: Broadcast: World saved.
+2018-06-07 03:57:26 - SaveManager: INFO: World saved at (/world/Irgell.wld)
