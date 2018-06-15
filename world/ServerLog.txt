@@ -47,4 +47,10 @@
 [06/15/18 01:23:29] [TShock] Info: Log path has been set to /world
 [06/15/18 01:23:29] [Server API] Info: Plugin TShock v4.3.25.0 (by The TShock Team) initiated.
 [06/15/18 01:26:47] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
-[06/15/18 01:26:47] [Server API] Verbose: 	Command line: /tshock/TerrariaServer.exe -configpath /wor
+[06/15/18 01:26:47] [Server API] Verbose: 	Command line: /tshock/TerrariaServer.exe -configpath /world -worldpath /world -logpath /world -world /world/Irgell.wld
+[06/15/18 01:26:47] [Server API] Verbose: 	OS: Unix 4.9.87.0 (64bit: True)
+[06/15/18 01:26:47] [Server API] Verbose: 	Mono: True
+[06/15/18 01:26:47] [TShock] Info: Config path has been set to /world
+[06/15/18 01:26:47] [TShock] Info: World path has been set to /world
+[06/15/18 01:26:47] [TShock] Info: Log path has been set to /world
+[06/15/18 01:26:47] [Server API] Info: Plugin TShock v4.3.25.0 (by The TShock Team) initiated.
