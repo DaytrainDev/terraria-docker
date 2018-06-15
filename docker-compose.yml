@@ -1,9 +1,8 @@
 version: '3'
 services:
         terraria:
-                image: ryshe/terraria:latest
                 build: ./
-                ports: 
+                ports:
                         - "7777:7777"
-                volumes: 
+                volumes:
                         - ./world:/world

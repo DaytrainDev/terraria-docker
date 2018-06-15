@@ -1,8 +1,16 @@
 # terraria-docker
 A Terraria world and Docker config to run it
 
-this is a WIP, does not work automatically yet
+to start...
+docker-compose up
 
-to run manually, make sure you have docker installed, have port 7777 open, then run the below command from the repo root folder
+to end....
+docker-compose down
 
+to change the loaded world, modify the last line of the Dockerfile (the -world parameter)
+
+run with interactive terminal (useful for creating a new world)
 docker run -it -p 7777:7777 -v ./world:/world --name="terraria" ryshe/terraria:latest
+
+run in background (same as running docker-compose up)
+docker run -dit -p 7777:7777 -v ./world:/world --name="terraria" ryshe/terraria:latest -world /world/Irgell.wld
