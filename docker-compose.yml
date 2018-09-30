@@ -1,8 +1,11 @@
 version: '3'
 services:
-        terraria:
-                build: ./
-                ports:
-                        - "7777:7777"
-                volumes:
-                        - ./world:/world
+  terraria:
+    build: ./
+    restart: unless-stopped
+    ports:
+      - "7777:7777"
+    volumes:
+      - ./world:/world
+    env_file:
+      - terraria.env
